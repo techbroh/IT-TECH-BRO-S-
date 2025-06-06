@@ -22,13 +22,13 @@
 
 
  <p align="left">
-<a href="https://criss-vevo-a58c8cd81fc9.herokuapp.com"><img src="https://img.shields.io/badge/Get%20Session%20-white" alt=" 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 02" width="200"></a>
+<a href="https://criss-vevo-a58c8cd81fc9.herokuapp.com"><img src="https://img.shields.io/badge/Get%20Session%20-red" alt=" 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 02" width="200"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <p align="left">
-<a href="https://SKIDDY-ai.vercel.app" target="_blank"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-purple"" alt="Heroku" width="300"></a>
+<a href="https://criss-ai.vercel.app" target="_blank"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-purple"" alt="Heroku" width="300"></a>
 </p>
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
