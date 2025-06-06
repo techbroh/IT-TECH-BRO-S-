@@ -1,6 +1,6 @@
-name: popkid_xtech
+name: IT TECH 
 services:
-  - name: popkid_xtech-service
+  - name: IT TECH-service
     type: web
     ports:
       - 5000
