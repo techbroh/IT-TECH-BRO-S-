@@ -33,7 +33,7 @@
 
 <h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/techbroh/IT-TECH-BRO-S-D' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/techbroh/IT-TECH-BRO-S-' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="left">2. 𝐊𝐎𝐘𝐄𝐁</h4>
