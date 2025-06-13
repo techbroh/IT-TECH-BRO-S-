@@ -22,7 +22,7 @@
 
 
  <p align="left">
-<a href="https://itbrohpair.onrender.com"><img src="https://img.shields.io/badge/Get%20Session%20-red" alt=" 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 02" width="200"></a>
+<a href="https://it-tecpair.onrender.com"><img src="https://img.shields.io/badge/Get%20Session%20-red" alt=" 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 02" width="200"></a>
 
 
 
